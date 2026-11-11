@@ -1,0 +1,8 @@
+[project]
+name = "proyecto-wiki-influencers"
+version = "0.1.0"
+description = "U3-T3 Proyecto BI con asistencia AI: influenciadores y seguidores (LLM Wiki)"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=3.1.1",
+]
